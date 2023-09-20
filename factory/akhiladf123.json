@@ -1,0 +1,9 @@
+{
+	"name": "akhiladf123",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "699380dc-2428-46ad-896b-a38e108fab7a",
+		"tenantId": "afea84ff-6daa-41b8-96d7-b09adac5fa7c"
+	}
+}
